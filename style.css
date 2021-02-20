@@ -40,3 +40,9 @@ body {
   text-align: center;
   padding: 20px 0px;
 }
+
+@media only screen and (max-width: 700px) {
+  .transsec {
+    margin-bottom: 20px;
+  }
+}
